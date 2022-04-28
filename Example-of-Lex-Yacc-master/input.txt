@@ -1,0 +1,12 @@
+CRC
+      CLASS  myclass
+      RESPONSIBILITY
+              assign  INT number
+      END
+      RESPONSIBILITY
+              assign CHAR* name
+      END
+      COLABRATION
+               USING  CLASS yourclass
+      END
+END

@@ -1,0 +1,15 @@
+// Class Name: myclass
+// Functions:
+//   assign int number
+// Functions:
+//   assign char *name
+// Class Relations :
+// This Class USES class yourclass
+//
+Class myclass { 
+    Public:
+      assign(int number);
+      assign(char *name);
+    Protected:
+    Private:
+};
